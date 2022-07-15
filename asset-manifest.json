@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/orfi/static/css/main.073c9b0a.css",
+    "main.js": "/orfi/static/js/main.27e38387.js",
+    "static/js/787.48a11053.chunk.js": "/orfi/static/js/787.48a11053.chunk.js",
+    "static/media/logo.svg": "/orfi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/orfi/index.html",
+    "main.073c9b0a.css.map": "/orfi/static/css/main.073c9b0a.css.map",
+    "main.27e38387.js.map": "/orfi/static/js/main.27e38387.js.map",
+    "787.48a11053.chunk.js.map": "/orfi/static/js/787.48a11053.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.27e38387.js"
+  ]
+}
